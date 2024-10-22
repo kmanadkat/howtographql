@@ -122,5 +122,5 @@ go run github.com/99designs/gqlgen generate
 > `CreateTodo` and `Todos`. Now run the command again.
 
 After gqlgen has generated code for us, we'll have to implement our schema resolveres, we do
-that in ‍‍‍‍`schema.resolvers.go`, as you see there is functions for Queries and
-Mutations we defined in our schema.
+that in ‍‍‍‍`schema.resolvers.go`, as you see there are functions for Queries and
+Mutations that we defined in our schema.
